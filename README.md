@@ -89,4 +89,4 @@ Key challenges:
 
 ## Team
 
-University of Jeddah — Senior Project 2025
+University of Jeddah 2025
